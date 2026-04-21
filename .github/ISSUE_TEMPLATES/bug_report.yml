@@ -95,7 +95,6 @@ body:
     attributes:
       label: Relevant Log Files
       description: Please copy and paste any logs that may be related to the bug. Examples of logs we may require can include Roblox Developer Console logs, or in rare cases, Roblox Player logs. The logs will be automatically formatted into code, so no need for backticks.
-      render: shell
 
   - type: markdown
     attributes:
