@@ -1,5 +1,5 @@
 name: Feature Request
-description: Suggest a new feature or an enhancement to an feature.
+description: Suggest a new feature or an enhancement to an existing feature.
 type: Feature
 body:
   - type: textarea
